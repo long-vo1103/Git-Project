@@ -1,2 +1,6 @@
  iphone7 700
+<<<<<<< HEAD
  iphone5 500 
+=======
+iphone8 800
+>>>>>>> 3321e2faa884dc378899c5e98ce5e58acbd0682c
